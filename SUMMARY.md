@@ -22,6 +22,10 @@
 * [Scheduled Tasks](automation/tasks.md)
 * [Task Templates](automation/templates.md)
 * [Smart Limit Orders](automation/limit-orders.md)
+  * [Understanding Metrics](automation/limit-orders-metrics.md)
+  * [Setting Up Orders](automation/limit-orders-setup.md)
+  * [Strategies](automation/limit-orders-strategies.md)
+  * [FAQs](automation/limit-orders-faq.md)
 * [Advanced Limit Orders](automation/limit-orders-advanced.md)
 
 ## Analytics
