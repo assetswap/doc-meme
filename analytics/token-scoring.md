@@ -17,35 +17,30 @@ Your final score combines 6 key metrics:
 
 ## Activity Score (100 points)
 
-Measures how much real trading is happening.
+Evaluates trading engagement with a 100-point scale to measure real trading activity.
 
-### What We Check
+### 1. Multi-timeframe Trading (40% weight)
+Analyzes trades across 1h, 4h, 24h periods:
+- **100+ trades/period** = maximum points
+- **Weighted distribution:**
+  - 24h activity: 50%
+  - 1h activity: 30%
+  - 4h activity: 20%
 
-#### 1. Trading Volume (40% of score)
-How many trades in different timeframes:
-* **24 hour trades** (50% weight)
-* **1 hour trades** (30% weight)  
-* **4 hour trades** (20% weight)
+### 2. Unique Wallet Engagement (35% weight)
+| Unique Wallets | Points | Rating |
+|----------------|--------|---------|
+| 1000+ | 35 | Excellent |
+| 500+ | 28 | Very Good |
+| 100+ | 20 | Good |
+| 50+ | 10 | Okay |
+| <50 | 5 | Poor |
 
-**Scoring:**
-* 100+ trades per period = Full points
-* 50+ trades = Good score
-* Less than 10 = Low score
-
-#### 2. Unique Wallets (35% of score)
-Different people trading (not just bots):
-* **1000+ wallets** = 35 points (excellent)
-* **500+ wallets** = 28 points (very good)
-* **100+ wallets** = 20 points (good)
-* **50+ wallets** = 10 points (okay)
-* **Less than 50** = 5 points (poor)
-
-#### 3. Buy/Sell Balance (25% of score)
-Healthy mix of buying and selling:
-* **40-60% buy ratio** = 25 points (perfect balance)
-* **30-70% buy ratio** = 20 points (healthy)
-* **20-80% buy ratio** = 15 points (acceptable)
-* **Extreme ratios** = Red flag (manipulation risk)
+### 3. Buy/Sell Balance (25% weight)
+- **40-60% buy ratio** = 25 points (perfect balance)
+- **30-70% buy ratio** = 20 points (healthy)
+- **20-80% buy ratio** = 15 points (acceptable)
+- **Extreme ratios** = Red flag (manipulation risk)
 
 ### What Good Activity Looks Like
 ✅ Lots of trades throughout the day
@@ -61,45 +56,42 @@ Healthy mix of buying and selling:
 
 ## Maturity Score (100 points)
 
-Shows how established and stable the token is.
+Assesses market establishment with a 100-point scale to determine how stable and mature the token is.
 
-### What We Check
+### 1. Market Cap Tier (40% weight)
+| Market Cap | Points | Classification |
+|------------|--------|---------------|
+| $100M+ | 40 | Established |
+| $50M+ | 35 | Mature |
+| $10M+ | 30 | Growing |
+| $1M+ | 20 | Emerging |
+| <$1M | 10 | Micro-cap |
 
-#### 1. Market Cap Size (40% of score)
-Bigger = more established:
-* **$100M+** = 40 points (blue chip)
-* **$50M+** = 35 points (established)
-* **$10M+** = 30 points (mid-cap)
-* **$1M+** = 20 points (small-cap)
-* **Below $1M** = 10 points (micro-cap)
+### 2. Supply Distribution (30% weight)
+**Top 10 Holders Concentration:**
+- **<30%** = 15 points (excellent distribution)
+- **30-50%** = 10 points (good)
+- **50-70%** = 5 points (risky)
+- **>70%** = 0 points (dangerous)
 
-#### 2. Token Distribution (30% of score)
-How spread out ownership is:
+**Top 100 Holders Concentration:**
+- **<80%** = 15 points (healthy)
+- **>80%** = Lower score (concentration risk)
 
-**Top 10 Holders:**
-* **Less than 30%** = 15 points (excellent)
-* **30-50%** = 10 points (good)
-* **50-70%** = 5 points (risky)
-* **Above 70%** = 0 points (dangerous)
+### 3. FDV vs Market Cap Ratio (20% weight)
+- **90%+ circulating** = 20 points (fully diluted)
+- **70-90%** = 15 points (mostly circulating)
+- **50-70%** = 10 points (inflation risk)
+- **<50%** = 5 points (high inflation risk)
 
-**Top 100 Holders:**
-* **Less than 80%** = 15 points (healthy)
-* **Above 80%** = Lower score
-
-#### 3. Supply Circulation (20% of score)
-How much is actually trading:
-* **90%+ circulating** = 20 points (fully diluted)
-* **70-90%** = 15 points (mostly circulating)
-* **50-70%** = 10 points (inflation risk)
-* **Below 50%** = 5 points (high inflation risk)
-
-#### 4. Holder Count (10% of score)
-Size of community:
-* **5000+ holders** = 10 points (large community)
-* **1000+ holders** = 8 points (good community)
-* **500+ holders** = 6 points (growing)
-* **100+ holders** = 4 points (small)
-* **Below 100** = 2 points (tiny)
+### 4. Holder Count (10% weight)
+| Holders | Points | Community Size |
+|---------|--------|---------------|
+| 5000+ | 10 | Mature base |
+| 1000+ | 8 | Good |
+| 500+ | 6 | Growing |
+| 100+ | 4 | Small |
+| <100 | 2 | Tiny |
 
 ### What Good Maturity Looks Like
 ✅ Market cap over $10M
@@ -116,29 +108,16 @@ Size of community:
 ## Other Important Scores
 
 ### Liquidity Score
-Can you buy/sell without issues?
-* Pool size vs market cap
-* Available trading pairs
-* Slippage estimates
+Measures whether you can buy and sell the token without significant price impact. The score evaluates the pool size relative to market cap, checks available trading pairs, and estimates potential slippage for typical trade sizes.
 
 ### Momentum Score
-Is it trending?
-* Price movement (1h, 24h, 7d)
-* Volume trends
-* Social sentiment
+Tracks whether the token is gaining or losing traction. The system analyzes price movements across multiple timeframes (1 hour, 24 hours, 7 days), monitors volume trends to spot increasing interest, and gauges social sentiment from community discussions.
 
 ### Community Score
-How strong is the community?
-* Social media activity
-* Holder growth rate
-* Engagement metrics
+Evaluates the strength and engagement of the token's community. This includes monitoring social media activity levels, tracking holder growth rates over time, and measuring engagement metrics like comments, shares, and active discussions.
 
 ### Security Score
-Is it safe?
-* Contract verification
-* Audit status
-* Known risks
-* Team reputation
+Assesses the safety and trustworthiness of the token. The evaluation covers contract verification status, whether the token has been audited, any known security risks or vulnerabilities, and the reputation of the team behind the project.
 
 ## Reading the Scores
 
@@ -165,11 +144,7 @@ You might consider:
 
 ## How Autopilot Uses Scores
 
-Autopilot automatically:
-1. **Filters** tokens below 50 overall
-2. **Prioritizes** 70+ scores
-3. **Exits** if security drops below 40
-4. **Balances** portfolio by scores
+Autopilot leverages the scoring system to make intelligent trading decisions. It automatically filters out any tokens scoring below 50 overall to avoid poor investments. The system prioritizes tokens with scores above 70 for new positions. If any token's security score drops below 40, Autopilot will exit the position to protect your capital. Portfolio allocation is also balanced based on relative scores to optimize risk and reward.
 
 ## Quick Decision Guide
 
@@ -193,20 +168,10 @@ Autopilot automatically:
 
 ## Pro Tips
 
-1. **Never ignore Security Score** - It's your safety net
-2. **Activity matters** - Dead tokens = dead money
-3. **Check multiple timeframes** - Don't just look at 24h
-4. **Distribution is key** - Avoid whale-controlled tokens
-5. **Combine scores** - No single metric tells everything
+Never ignore the Security Score as it serves as your primary safety net against scams and rug pulls. Activity matters because tokens with no trading activity are essentially dead investments. Always check multiple timeframes rather than just 24-hour data to understand true momentum. Distribution is critical - avoid tokens where whales control the majority of supply. Remember to combine all scores together since no single metric tells the complete story.
 
 ## Score Updates
 
-Scores update every:
-* **Activity**: Every hour
-* **Momentum**: Every 15 minutes
-* **Community**: Every 4 hours
-* **Security**: Daily
-* **Maturity**: Daily
-* **Liquidity**: Real-time
+The scoring system refreshes at different intervals to provide timely information. Activity scores update every hour to track trading patterns. Momentum scores refresh every 15 minutes to catch rapid price movements. Community metrics update every 4 hours to monitor social engagement. Security and Maturity scores update daily since these metrics change less frequently. Liquidity scores update in real-time to ensure accurate trading conditions.
 
 Remember: Scores are guides, not guarantees. Always DYOR (Do Your Own Research)!
