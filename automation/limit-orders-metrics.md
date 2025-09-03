@@ -123,3 +123,8 @@ Watch for:
 * Increasing holders
 
 Remember: No single metric tells the whole story. Use multiple metrics for better decisions!
+
+## Learn More About Scoring
+
+Want to understand exactly how each score is calculated?
+Check out [How We Score Tokens](../analytics/token-scoring.md) for the complete breakdown.

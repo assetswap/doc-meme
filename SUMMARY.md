@@ -30,6 +30,7 @@
 
 ## Analytics
 
+* [How We Score Tokens](analytics/token-scoring.md)
 * [Performance Tracking](analytics/performance.md)
 * [Trade History](analytics/trade-history.md)
 * [Profit & Loss](analytics/pnl.md)
