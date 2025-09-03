@@ -1,95 +1,70 @@
 # Portfolio Management
 
-Your portfolio dashboard gives you complete visibility into your token holdings, performance, and trading activity.
+Your portfolio dashboard provides comprehensive insights into your token holdings and trading performance. Access it from the main navigation to monitor your investments in real-time.
 
 ## Portfolio Overview
 
-### Key Metrics Display
+### Key Metrics Dashboard
 
-Your portfolio header shows:
-- **Total Value**: Current USD value of all holdings
-- **24h Change**: Daily profit/loss percentage
-- **Total P&L**: All-time profit/loss
-- **Number of Tokens**: Diversity count
+At the top of your portfolio, you'll find four essential metrics that summarize your current position:
 
-### Understanding Your Holdings
+| Metric | Description | What It Shows |
+|--------|-------------|---------------|
+| **Total Value** | Current USD value of all holdings | Your portfolio's worth right now |
+| **24h Change** | Daily profit/loss as percentage | How you're performing today |
+| **Total P&L** | All-time profit or loss | Your overall trading success |
+| **Token Count** | Number of different tokens held | Portfolio diversification level |
 
-Each token displays:
-- **Token Symbol & Logo**
-- **Quantity Held**
-- **Current Value (USD)**
-- **24h Change (%)**
-- **Your P&L**: Profit/loss since purchase
-- **Allocation**: Percentage of portfolio
+### Token Holdings Display
 
-## Profit Chart
+Your individual token holdings are presented in a comprehensive table format. Each token row shows its symbol with logo, the quantity you hold, current USD value, and performance metrics. The 24-hour change helps you spot today's movers, while your personal P&L shows profit or loss since you purchased that specific token. The allocation percentage reveals how much of your portfolio each token represents, helping you maintain proper diversification.
 
-### Reading the Chart
+## Performance Visualization
 
-The profit chart visualizes:
-- **Time Periods**: 24h, 7d, 30d, All
-- **Green Line**: Portfolio growing
-- **Red Line**: Portfolio declining
-- **Dots**: Individual trades
+### Understanding the Profit Chart
 
-### Chart Interactions
+The portfolio includes an interactive profit chart that tracks your performance over time. You can switch between different time periods (24 hours, 7 days, 30 days, or all-time) to analyze your trading patterns. Green areas indicate portfolio growth periods, while red shows declines. Individual trade points appear as dots on the chart, allowing you to correlate specific actions with performance changes.
 
-- **Hover**: See exact values
-- **Zoom**: Pinch or scroll
-- **Click**: View trade details
-- **Export**: Download data
+### Interactive Features
+
+The chart responds to your interactions for deeper analysis. Hovering over any point reveals exact values and timestamps. You can zoom in on specific periods using pinch gestures on mobile or scroll wheel on desktop. Clicking on trade dots opens detailed information about that transaction. Export functionality lets you download your performance data for external analysis or record-keeping.
 
 ## Token Management
 
 ### Quick Actions
 
-For each token, you can:
-- **Trade**: Buy more or sell
-- **Chart**: View detailed price action
-- **Set Alert**: Price notifications
-- **Add to Task**: Automate actions
+Each token in your portfolio comes with a set of quick action buttons for efficient management. You can instantly trade to adjust your position, view detailed price charts for technical analysis, set custom price alerts for important levels, or add the token to automated tasks for hands-free trading.
 
-### Sorting Options
+### Sorting and Organization
 
-- **By Value**: Largest holdings first
-- **By Performance**: Winners on top
-- **By Recent**: Latest purchases
-- **By Name**: Alphabetical
+The portfolio view offers multiple sorting options to help you focus on what matters most. Sort by value to see your largest holdings at the top, by performance to identify today's winners and losers, by recent activity to track new purchases, or alphabetically for easy navigation.
 
-## Performance Metrics
+## Performance Analytics
 
-### Win Rate
-- Percentage of profitable trades
-- Target: 60%+ is excellent
-- Shows trading skill
+### Key Performance Indicators
 
-### Average Return
-- Mean profit per trade
-- Helps set realistic targets
-- Guides position sizing
+Your trading performance is measured through three critical metrics:
 
-### Best Trade
-- Your highest profit
-- Learn from successes
-- Replicate strategies
+| Metric | Description | Interpretation |
+|--------|-------------|----------------|
+| **Win Rate** | Percentage of profitable trades | Above 60% indicates strong trading decisions |
+| **Average Return** | Mean profit per completed trade | Helps set realistic profit targets and position sizes |
+| **Best Trade** | Your highest single profit | Analyze to replicate successful strategies |
 
-## Portfolio Analytics
+## Risk Assessment
 
-### Diversification Score
-- **0-30**: Too concentrated
-- **30-70**: Balanced
-- **70-100**: Well diversified
+### Portfolio Diversification Analysis
 
-### Risk Level
-- **Low**: Stable tokens, small positions
-- **Medium**: Mix of established and new
-- **High**: Mostly new/volatile tokens
+The platform automatically calculates your diversification score based on token distribution and correlation. A score between 0-30 indicates dangerous concentration in too few assets. Scores from 30-70 represent a balanced approach suitable for most traders. Anything above 70 shows excellent diversification but may dilute potential gains.
 
-### Recommendations
-- AI-suggested rebalancing
-- Profit-taking opportunities
-- Risk warnings
+### Risk Classification
+
+Your portfolio risk level is determined by analyzing token volatility, market cap distribution, and position sizes. Low risk portfolios consist primarily of established tokens with modest position sizes. Medium risk involves a healthy mix of blue-chip and emerging tokens. High risk portfolios are weighted toward new, volatile tokens with larger position sizes.
+
+### AI-Powered Recommendations
+
+The system continuously analyzes your portfolio to provide actionable insights. These include optimal rebalancing suggestions based on market conditions, profit-taking alerts when tokens reach significant gains, and risk warnings if your portfolio becomes too concentrated or exposed to correlated assets.
 
 ---
 
-💼 **Pro Tip**: Keep 20-30% in SOL for opportunities and fees. Diversify across 5-10 tokens for balanced risk.
+💼 **Professional Strategy**: Maintain 20-30% of your portfolio value in SOL to cover transaction fees and capitalize on sudden opportunities. Aim for 5-10 different tokens to balance risk and reward effectively.

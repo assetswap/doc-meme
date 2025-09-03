@@ -1,68 +1,63 @@
 # Smart Limit Orders
 
-Set it and forget it. MEME AI watches your tokens 24/7 and trades automatically when your conditions are met.
+Automated trading that monitors your positions 24/7 and executes trades when your specified conditions are met. MEME AI's intelligent limit orders go beyond simple price triggers to include comprehensive market analysis.
 
-## What Are They?
+## Understanding Smart Limit Orders
 
-Think of limit orders like alarms for your crypto:
-* **Take Profit** = Sell when things go well
-* **Stop Loss** = Sell when things go bad
+Smart limit orders function as automated trading guardians for your portfolio. Take-profit orders automatically secure gains when targets are reached, while stop-loss orders protect against excessive losses. Unlike traditional limit orders that only watch price, MEME AI monitors over 30 different market metrics to make more informed trading decisions.
 
-But MEME AI watches more than just price. We monitor 30+ metrics so you can trade smarter.
+## Getting Started with Limit Orders
 
-## Quick Start
+Setting up your first limit order takes less than a minute. Navigate to your wallet and select any token you hold. Click the "Set Limit Order" button to open the configuration panel. Choose your monitoring metric (price, safety score, volume, etc.) and set your target threshold. Once confirmed, the order becomes active immediately and runs continuously until triggered or cancelled.
 
-1. Go to **Wallet**
-2. Click any token
-3. Choose **"Set Limit Order"**
-4. Pick what to watch (price, safety, etc.)
-5. Set your target
-6. Done! We handle the rest
+## Comprehensive Monitoring Options
 
-## What Can You Monitor?
+### Price-Based Triggers
 
-### 📈 Price
-* Set exact prices or percentages
-* Example: "Sell if BONK hits $0.001"
+Configure orders based on specific price targets or percentage changes from your entry point. Set multiple price levels to scale out of positions gradually. For example, create an order to "Sell 50% when BONK reaches $0.001 and the remainder at $0.0015."
 
-### 🛡️ Safety Score
-* Exit if token becomes risky
-* Example: "Sell if safety drops below 50"
+### Safety Score Protection
 
-### 🐋 Whale Activity
-* Track big players
-* Example: "Sell if whales dump"
+The platform's proprietary safety score analyzes multiple risk factors including liquidity depth, holder distribution, and contract security. Set automatic exits when safety metrics deteriorate, protecting your capital from potential rug pulls or market manipulation.
 
-### 📊 Volume & Liquidity
-* React to market changes
-* Example: "Sell if volume dies"
+### Whale Movement Detection
 
-## Common Setups
+Monitor large holder activity to anticipate major market moves. Configure alerts and automatic trades based on whale accumulation or distribution patterns. This feature helps you follow smart money or exit before significant dumps.
 
-### Beginner: Basic Protection
-* **Take Profit**: +50% gain
-* **Stop Loss**: -20% loss
+### Volume and Liquidity Analysis
 
-### Intermediate: Smart Exit
-* **Take Profit 1**: +100% gain (sell half)
-* **Take Profit 2**: +200% gain (sell rest)
-* **Stop Loss**: Security Score < 40
+React to changing market conditions by monitoring trading volume and liquidity metrics. Set orders to execute when volume spikes indicate renewed interest or when declining liquidity suggests reduced market support.
 
-### Advanced: Full Coverage
-See our [Advanced Strategies](limit-orders-strategies.md) guide
+## Recommended Trading Strategies
 
-## Learn More
+### Beginner Strategy: Foundation Protection
 
-* [Understanding Metrics](limit-orders-metrics.md) - What each score means
-* [Setting Up Orders](limit-orders-setup.md) - Step-by-step guide
-* [Strategies & Examples](limit-orders-strategies.md) - Pro tips
-* [Troubleshooting](limit-orders-faq.md) - Common issues
+Start with simple profit-taking at 50% gains and loss prevention at 20% downside. This balanced approach secures wins while limiting losses to manageable levels. Perfect for new traders learning market dynamics.
 
-## Key Points
+### Intermediate Strategy: Scaled Exits
 
-✅ **Orders run 24/7** - Even when offline
-✅ **No extra fees** - Just normal swap fees
-✅ **Instant execution** - Checks every minute
-✅ **Multiple orders** - Up to 20 per token
+Implement multi-level profit taking to maximize gains while reducing risk. Take 50% profits at 100% gain to recoup your initial investment. Sell the remaining position at 200% gain for maximum upside. Add a safety score trigger below 40 to protect against token-specific risks beyond price.
 
-Start with simple price orders. Add advanced metrics as you learn!
+### Advanced Strategy: Multi-Metric Protection
+
+Combine price, safety, volume, and whale metrics for comprehensive coverage. Details available in our [Advanced Strategies](limit-orders-strategies.md) guide.
+
+## Strategy Configuration Table
+
+| Strategy Level | Take Profit | Stop Loss | Additional Metrics |
+|---------------|-------------|-----------|-------------------|
+| **Beginner** | +50% | -20% | None |
+| **Intermediate** | +100% (50%)<br>+200% (50%) | Safety < 40 | Safety Score |
+| **Advanced** | Multiple levels | Dynamic | Price, Safety, Volume, Whales |
+
+## Platform Capabilities
+
+The limit order system operates continuously, monitoring your positions every minute even when you're offline. There are no additional fees beyond standard swap costs. You can set up to 20 different orders per token, allowing complex multi-condition strategies. Orders execute instantly when conditions are met, ensuring you never miss opportunities.
+
+## Educational Resources
+
+Master the platform with our comprehensive guides. The [Understanding Metrics](limit-orders-metrics.md) guide explains each monitoring parameter in detail. Our [Setup Tutorial](limit-orders-setup.md) provides step-by-step configuration instructions. Explore [Pro Strategies](limit-orders-strategies.md) for advanced trading techniques. Find solutions in our [FAQ](limit-orders-faq.md) for common challenges.
+
+## Best Practices
+
+Begin with simple price-based orders to understand the system mechanics. Gradually incorporate advanced metrics as you gain experience. Always set stop-losses to protect capital, especially in volatile meme token markets. Review and adjust your orders regularly based on market conditions and portfolio goals.

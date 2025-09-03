@@ -4,37 +4,37 @@ hidden: true
 
 # Trade
 
-Trading lets you buy cryptocurrencies with USDC or sell them for USDC.
+The trade feature enables direct buying and selling of cryptocurrencies using USDC as your base currency. This streamlined process makes portfolio management simple and efficient.
 
-## Purpose
+## Overview
 
-* Adds new coins or converts coins to cash.
+Trading on AssetSwap connects you directly to liquidity pools, ensuring competitive prices and instant execution. Whether you're accumulating positions or taking profits, trades execute in seconds with transparent pricing.
 
-## Process
+## How Trading Works
 
-1. Type "trade" in the chat.
-2. Specify "buy" or "sell".
-3. Enter the coin (e.g., "BTC").
-4. Provide the amount (e.g., "0.5").
-5. Wait for balance check and confirmation.
+The trading process follows a conversational flow through the AI assistant. Simply express your intent to trade, and the system guides you through each step. Start by typing "trade" or directly stating your intention like "buy BTC" or "sell ETH". The AI will request specific details about quantity and confirm current market prices before execution.
 
-## Chat Example
+## Trade Execution Flow
 
-* **User**: "buy BTC"
-* **AssetSwap**: "How much BTC? (e.g., 0.5)"
-* **User**: "0.5"
-* **AssetSwap**: "$32,500 USDC needed. Checking balance..."
-* **AssetSwap**: "Purchase complete! 0.5 BTC added."
-* **User**: "sell ETH"
-* **AssetSwap**: "How much ETH? (e.g., 1)"
-* **User**: "1"
-* **AssetSwap**: "You’ll get $3,000 USDC. Checking..."
-* **AssetSwap**: "Sale complete! 1 ETH sold for $3,000."
+When initiating a buy order, the system calculates the required USDC based on current market rates. It verifies your balance, displays the total cost including fees, and awaits your confirmation. For sell orders, it shows the USDC you'll receive after deducting fees, checks your token balance, and processes the sale upon approval.
 
-## Insufficient Balance
+## Practical Trading Example
 
-* **AssetSwap**: "Need $3,000 more USDC. Type 'deposit 3 USDC'."
+Here's how a typical trading conversation unfolds:
 
-## Benefits
+| Step | User Input | System Response |
+|------|------------|-----------------|
+| 1 | "buy BTC" | "How much BTC would you like to buy?" |
+| 2 | "0.5" | "0.5 BTC costs $32,500 USDC. Confirm?" |
+| 3 | "yes" | "Purchase complete! 0.5 BTC added to portfolio" |
+| 4 | "sell ETH" | "How much ETH would you like to sell?" |
+| 5 | "1" | "Selling 1 ETH for $3,000 USDC. Confirm?" |
+| 6 | "confirm" | "Sale complete! $3,000 USDC credited" |
 
-* Easy way to manage your coin collection.
+## Balance Management
+
+The system automatically checks your balance before executing trades. If you have insufficient funds, it calculates the exact shortfall and suggests a deposit amount. For example, if you need $3,000 more USDC, the system will prompt: "Insufficient balance. You need $3,000 more USDC. Would you like to deposit?"
+
+## Trading Advantages
+
+Direct access to deep liquidity ensures minimal slippage on your trades. Real-time price updates keep you informed of market movements. The conversational interface eliminates complex order forms while maintaining professional execution standards. All trades settle instantly, updating your portfolio in real-time.
