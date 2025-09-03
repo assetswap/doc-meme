@@ -1,19 +1,48 @@
 # Table of contents
 
-* [Welcome to Meme AI](README.md)
+* [Welcome to MEME AI](README.md)
 
 ## Getting Started
 
-* [Your wallet](getting-started/signing-up.md)
+* [Quick Start Guide](getting-started/quick-start.md)
+* [Creating Your Account](getting-started/creating-account.md)
+* [Your Wallet](getting-started/your-wallet.md)
+* [Making Your First Trade](getting-started/first-trade.md)
 
-## features
+## Core Features
 
-* [Fee schedule](features/fee-schedule.md)
-* [Deposit](features/deposit.md)
-* [Swap](features/swap.md)
-* [Trade](features/trade.md)
+* [AI Chat Assistant](core-features/ai-chat.md)
+* [Portfolio Management](core-features/portfolio.md)
+* [Trading](core-features/trading.md)
+* [Market Discovery](core-features/market-discovery.md)
+
+## Automation
+
+* [Autopilot Mode](automation/autopilot.md)
+* [Scheduled Tasks](automation/tasks.md)
+* [Task Templates](automation/templates.md)
+* [Smart Limit Orders](automation/limit-orders.md)
+* [Advanced Limit Orders](automation/limit-orders-advanced.md)
+
+## Analytics
+
+* [Performance Tracking](analytics/performance.md)
+* [Trade History](analytics/trade-history.md)
+* [Profit & Loss](analytics/pnl.md)
+
+## Settings
+
+* [Account Settings](settings/account.md)
+* [Trading Preferences](settings/preferences.md)
+* [Security](settings/security.md)
+
+## Help
+
+* [FAQs](help/faqs.md)
+* [Troubleshooting](help/troubleshooting.md)
+* [Glossary](help/glossary.md)
 
 ## Links
 
-* [X (twitter)](https://x.com/AssetSwapAi)
+* [X (Twitter)](https://x.com/AssetSwapAi)
 * [Youtube Demo](https://www.youtube.com/@assetswap)
