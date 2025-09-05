@@ -1,16 +1,14 @@
 # Autopilot Mode
 
-Set it and forget it. AI trades for you 24/7.
+Autopilot is an intelligent automation tool designed to get you started trading in seconds. It handles the complex tasks of researching, analyzing, and trading tokens while you focus on other things.
 
-## What It Does
+## What is Autopilot?
 
-Every day, Autopilot:
-* **Buys** top performing tokens
-* **Sells** losers automatically
-* **Takes** profits at the right time
-* **Manages** risk for you
+Autopilot is your personal trading assistant that works 24/7. It automatically buys the best tokens every day with your specified amount, monitors your portfolio constantly to check if tokens are performing well, and protects you against losses by exiting positions when necessary. Think of it as having an expert trader working for you around the clock, making decisions based on real-time data and proven strategies.
 
-Target: 15-30% monthly returns
+## How It Works
+
+When you activate Autopilot, it creates simple starter tasks that appear in your Task Dashboard. These tasks run automatically - for example, buying the best-scoring tokens daily with $50, or checking your portfolio every hour to ensure your tokens maintain good scores and adequate liquidity. The beauty is that these are just starting points. You can edit these tasks later to match your exact preferences, add new conditions, or create more sophisticated strategies as you become more comfortable with the platform.
 
 ## Start in 30 Seconds
 
@@ -120,40 +118,44 @@ AI analyzes 20+ factors.
 **Is my money locked?**
 No, full control always.
 
-## Why Autopilot?
+## Why Use Autopilot?
 
-| You Do | Autopilot Does |
-|--------|---------------|
-| Nothing | Research |
-| Nothing | Analysis |
-| Nothing | Trading |
-| Nothing | Risk management |
-| Profit | ✅ |
+Autopilot solves the biggest challenges in memecoin trading:
+- **24/7 Markets**: Crypto never sleeps, but you need to
+- **Information Overload**: Too many tokens to analyze manually
+- **Emotional Trading**: Removes fear and greed from decisions
+- **Time Constraints**: Perfect for those with jobs or other commitments
+
+## Customization is Key
+
+**Important**: The default Autopilot setup is just a simple starting point designed to get you trading quickly. We strongly recommend that you test additional tasks and customize the settings to match your risk tolerance and investment goals. The real power of Autopilot comes from tailoring it to your specific needs.
+
+### Ways to Customize
+- Adjust daily investment amounts
+- Change risk parameters
+- Add specific token preferences
+- Set custom stop-loss levels
+- Create time-based strategies
+- Add social signal filters
 
 ## Tips for Success
 
-1. **Be patient** - 30 days minimum
-2. **Stay funded** - Keep balance positive
-3. **Don't interfere** - Let it work
-4. **Take profits** - Monthly withdrawals
-5. **Start small** - Scale up later
+1. **Start Simple** - Use defaults initially, then customize
+2. **Test More Tasks** - Experiment with different strategies
+3. **Monitor and Adjust** - Review performance weekly
+4. **Stay Funded** - Keep adequate SOL for fees
+5. **Be Patient** - Give strategies time to work
 
-## Problems?
+## Integration with Task Dashboard
 
-### Not Running?
-* Check balance
-* Need SOL for fees
-* Not paused?
+All Autopilot activities appear in your Task Dashboard where you can:
+- View active tasks
+- Edit task parameters
+- Pause or resume tasks
+- See execution history
+- Clone successful tasks
+- Create new custom tasks
 
-### Low Returns?
-* Normal variation
-* Check market
-* Be patient
+## Ready to Start?
 
-### Want Out?
-* Pause first
-* Sell if wanted
-* Deactivate
-* Money is yours
-
-**Ready?** Click **"Launch Autopilot"** and start earning!
+Click **"Launch Autopilot"** to begin with our simple starter setup, then explore the Task Dashboard to customize your automated trading strategy!

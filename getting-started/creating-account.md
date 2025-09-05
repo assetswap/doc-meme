@@ -2,54 +2,44 @@
 
 Get started with MEME AI in 2 minutes. No hassle.
 
-## Quick Sign Up
+## Account Creation Options
 
-### Option 1: Email
+### Option 1: Email Sign Up
 1. Go to [MEME AI](https://meme.assetswap.ai)
 2. Click **"Get Started"**
 3. Enter email & password
 4. Click verification link in email
 5. Done!
 
-### Option 2: Google
+### Option 2: Google Sign Up
 1. Go to [MEME AI](https://meme.assetswap.ai)
 2. Click **"Continue with Google"**
 3. Pick your account
 4. Done!
 
-## What You Get
+## What Happens When You Create an Account
 
-✅ **Instant wallet** - Created automatically
-✅ **No seed phrases** - We handle security
-✅ **Ready to trade** - Start immediately
+✅ **Automatic Wallet Generation** - A Solana wallet is created instantly for you
+✅ **Recovery Phrase** - A recovery phrase is generated and can be exported to your favorite wallet application
+✅ **No 2FA Required** - Optional for enhanced security, but not required
+✅ **No User Profile Section Needed** - Simple and straightforward setup
+✅ **Ready to Trade** - Start trading immediately after funding
 
 ## First Login
 
 You'll see:
-* Your new wallet address
-* $0 balance (add funds to start)
-* Chat assistant ready to help
+* Your new Solana wallet address
+* $0 balance (add funds to start trading)
+* AI chat assistant ready to help
+* Recovery phrase export option in Settings
 
-## Add Security (Optional)
+## Important: Recovery Phrase
 
-### Turn on 2FA
-1. Go to **Settings**
-2. Click **"Enable 2FA"**
-3. Scan QR code
-4. Save backup codes
-
-## Quick Setup
-
-### Add Profile Info
-* Click avatar (top right)
-* Add name & picture
-* Set preferences
-
-### Turn On Alerts
-Get notified for:
-* Trades
-* Price changes
-* Task completions
+When your account is created:
+* A recovery phrase is automatically generated
+* You can export this phrase to any wallet app
+* Keep this phrase secure - it's the only way to recover your wallet if you lose access
+* We don't store your recovery phrase - once lost, it cannot be recovered
 
 ## Account Types
 

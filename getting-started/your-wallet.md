@@ -99,6 +99,7 @@ You need SOL for:
 
 ⚠️ **Warning**: Your private key gives full control of your wallet. Never share it!
 
+#### Standard Account Private Key Access
 To export your private key:
 1. Go to **Wallet** section
 2. Click **lock icon** (🔒)
@@ -111,6 +112,15 @@ To export your private key:
 - Creating secure backup
 - Moving to hardware wallet
 - Advanced trading needs
+
+#### Important: Challenge Participants
+If you participated in our challenge and we added funds to your balance:
+- **Private key will NOT be visible initially**
+- **To unlock private key**: You must pay 50x the amount we added to your balance
+- **Example**: If we gave you $10 in challenge funds, pay $500 to unlock private key
+- **For unlimited account**: Add your own funds instead of using challenge funds
+- **Note**: This is NOT a modifiable wallet setting - it's a security feature
+- **Warning**: If you lose access to your account, the wallet is lost forever - we don't have access to your private key
 
 ### Wallet Security Tips
 

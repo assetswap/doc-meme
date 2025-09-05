@@ -8,30 +8,31 @@ icon: rocket-launch
 
 MEME AI is your intelligent companion for trading meme tokens on Solana. With advanced AI assistance, automated trading features, and real-time market analysis, MEME AI helps you trade smarter, not harder.
 
-## What Makes MEME AI Special?
+## Why MemeAI?
 
-### 🤖 AI-Powered Trading
-Chat naturally with our AI to execute trades, analyze tokens, and get market insights. No complex interfaces - just tell MEME AI what you want to do.
+In today's crypto market, most traders rely on trading charts with price-based indicators like RSI, MACD, or momentum. These tools are outdated and not suitable for crypto, especially for MemeCoins such as OpenCoin. The reason is simple: these markets react to tweets, influencers, hype, and fake news. An overbought RSI doesn't mean the price will stop going up, and vice versa.
 
-### 🚀 Autopilot Mode
-Activate our proven Autopilot strategy that automatically:
-- Buys top-performing tokens daily
-- Sells underperformers to protect your capital
-- Targets 15-30% monthly returns
+## What Tools are Suitable?
 
-### ⏰ Smart Automation
-Schedule tasks to run automatically:
-- Daily token purchases
-- Profit-taking at target levels
-- Stop-loss protection
-- Portfolio rebalancing
+Instead of outdated technical indicators, we analyze the real fundamentals of MemeCoins. For example, we look at the holders of the token:
+- How many holders are there?
+- Are they large wallets consistently making profits, or small wallets that get scammed by influencers and marketers?
 
-### 📊 Real-Time Analytics
-Track your performance with:
-- Live profit/loss charts
-- Token performance metrics
-- Trade history analysis
-- Portfolio insights
+Our team, Real Attack Eonshade, spends its time collecting all possible on-chain and off-chain data to train an ultra-specialized AI model for MemeCoin trading.
+
+## Why Automation?
+
+MemeCoin markets are 24/7. If you have a job, a business, or simply need to sleep, you'll miss opportunities. MemeAI solves this with automations. For example:
+- Tell the AI to buy the best tokens daily with $50
+- Automatically check your portfolio and sell tokens if liquidity drops by $200K, preventing rug pulls
+- Exit positions if sell pressure exceeds buy pressure or if the score declines
+
+## Who is it For?
+
+- **Beginners**: Easy to buy and manage MemeCoins with Eonshade
+- **Advanced traders**: Access to powerful automations for deeper strategies
+
+MemeAI is a new generation of trading tools built for MemeCoin markets, with both simplicity and advanced features.
 
 ## Getting Started in 3 Steps
 

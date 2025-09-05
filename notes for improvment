@@ -1,0 +1,181 @@
+Here’s a clean draft you can send to your dev to update the user documentation:
+
+⸻
+
+Hi [Dev],
+
+For tonight’s documentation changes, here’s what I’d like updated:
+
+Page: Welcome to MemeAI
+
+I want to expand the explanation of the flow and why we created MemeAI:
+• Why MemeAI?
+In today’s crypto market, most traders rely on trading charts with price-based indicators like RSI, MACD, or momentum. These tools are outdated and not suitable for crypto, especially for MemeCoins such as OpenCoin. The reason is simple: these markets react to tweets, influencers, hype, and fake news. An overbought RSI doesn’t mean the price will stop going up, and vice versa.
+• What tools are suitable?
+Instead of outdated technical indicators, we analyze the real fundamentals of MemeCoins. For example, we look at the holders of the token.
+• How many holders are there?
+• Are they large wallets consistently making profits, or small wallets that get scammed by influencers and marketers?
+Our team, Real Attack Eonshade, spends its time collecting all possible on-chain and off-chain data to train an ultra-specialized AI model for MemeCoin trading.
+• Why automation?
+MemeCoin markets are 24/7. If you have a job, a business, or simply need to sleep, you’ll miss opportunities. MemeAI solves this with automations. For example:
+• Tell the AI to buy the best tokens daily with $50.
+• Automatically check your portfolio and sell tokens if liquidity drops by $200K, preventing rug pulls.
+• Exit positions if sell pressure exceeds buy pressure or if the score declines.
+• Who is it for?
+• Beginners: Easy to buy and manage MemeCoins with Eonshade.
+• Advanced traders: Access to powerful automations for deeper strategies.
+
+This section should clearly show that MemeAI is a new generation of trading tools built for MemeCoin markets, with both simplicity and advanced features.
+
+1. get started seciton udpte :
+   Here’s a structured draft you can send directly to your dev for the next documentation update:
+
+⸻
+
+Hi [Dev],
+
+Here are the additional changes I need for the user documentation:
+
+Account Creation
+• Options: VAPS shows email and Google sign-up.
+• When a user creates an account, it automatically generates a wallet.
+• A recovery phrase is generated and can be exported into their favorite application.
+• No 2FA required.
+• No need for a user profile section.
+
+Notifications
+• Check all possible notification types.
+• Create a dedicated section in the documentation for Notifications.
+• Add a table listing all alerts with a short description of what each alert means.
+
+Troubleshooting
+• Remove this section completely (not useful).
+
+Wallet Section
+• Create a dedicated section about adding funds to the wallet.
+
+Private Key
+• Clarify that if the user participated in the challenge and we added funds to their balance:
+• The private key will not be visible.
+• To unlock, they must pay 50x the amount we added to the balance.
+• If they want an unlimited account, they need to add their own funds (not use challenge funds).
+• It’s not a wallet that can be modified (remove the misleading FAQ part).
+• If they lose access, the wallet is lost — we don’t have access to the private key.
+
+⸻
+
+Here’s a structured draft you can send directly to your dev for the next documentation update:
+
+⸻
+
+Hi [Dev],
+
+Here are the additional changes I need for the user documentation:
+
+Account Creation
+• Options: VAPS shows email and Google sign-up.
+• When a user creates an account, it automatically generates a wallet.
+• A recovery phrase is generated and can be exported into their favorite application.
+• No 2FA required.
+• No need for a user profile section.
+
+Notifications
+• Check all possible notification types.
+• Create a dedicated section in the documentation for Notifications.
+• Add a table listing all alerts with a short description of what each alert means.
+
+Troubleshooting
+• Remove this section completely (not useful).
+
+Wallet Section
+• Create a dedicated section about adding funds to the wallet.
+
+Private Key
+• Clarify that if the user participated in the challenge and we added funds to their balance:
+• The private key will not be visible.
+• To unlock, they must pay 50x the amount we added to the balance.
+• If they want an unlimited account, they need to add their own funds (not use challenge funds).
+• It’s not a wallet that can be modified (remove the misleading FAQ part).
+• If they lose access, the wallet is lost — we don’t have access to the private key.
+
+⸻
+
+Here’s a clean draft you can pass to your dev for the King of Thirst raid section update:
+
+⸻
+
+Hi [Dev],
+
+Next, for the King of Thirst raid part of the documentation, please update as follows:
+
+Content Changes
+• Remove the part about sole transactions of girls → clarify that we finance them if they don’t have a sole.
+• Remove mentions of network fee.
+• Remove mentions of slippage.
+• For Method 2 (Market Discovery):
+• Users can simply drag and drop the token into the chat to buy it.
+• Remove the Trade button.
+
+New Dedicated Pages
+
+Create new dedicated documentation pages for clarity: 1. Methods → each method should have its own dedicated page (with explanation and flow). 2. Fees → explain what fees exist (separated from main flow). 3. Tips → best practices, hints, and guidance. 4. Troubleshooting Errors & Mistakes → dedicated page with common errors and how to solve them.
+
+⸻
+
+Here’s a clear draft you can send to your dev for the Featured Trading & related sections update:
+
+⸻
+
+Hi [Dev],
+
+Please update the Featured Trading and related pages as follows:
+
+Featured Trading
+• Trading page: remove it (currently empty).
+• Trading Discovery page: replace with a Dashboard explanation:
+• Dashboard shows the list of tokens and their scores.
+• Add explanation of how tokens are scored.
+• Add a Chat History section:
+• Explain that Chat History automatically shows if a chat led to a transaction.
+• Indicate whether the chat came from automation or manual mode.
+• If there was a transaction, display the amount traded.
+
+Analytics & Automation
+• Move the Analytics section so it comes before the Automation section.
+
+Other Pages
+• Staking: currently empty → leave it empty or hide until later.
+• Trading History: fill this section by pointing to Dashboard → Trading History, which shows all wallet transactions.
+• Profit and Loss: remove this section completely (not needed).
+
+⸻
+
+Here’s a clear draft you can send to your dev for the Settings & Automation documentation updates:
+
+⸻
+
+Hi [Dev],
+
+Please update the Settings and Automation sections as follows:
+
+Settings Section
+
+Currently all pages are empty. Update to show the full Settings page with the following:
+• Notifications → include the list/table of possible alerts (reuse the notifications table created earlier).
+• Security → include export of PrivateKey and AptKey.
+• Stats → display user stats relevant to their account.
+• Rewards & Referral Program → create a dedicated subsection explaining how rewards work and how referrals are tracked.
+
+Automation Section
+• Explain that Automation is an Autopilot tool designed to get users started in seconds.
+• Describe in sentences (not bullets) what it does: for example, it can automatically buy the best tokens every day with $50, or check the portfolio to see if the tokens are good and protect against losses.
+• Emphasize that these are simple starter tasks, displayed in the Task Dashboard, where users can edit them later.
+• Add a recommendation line: users should test more tasks, since the default setup is just a simple starting point.
+• Remove the Autopilot page itself (not needed).
+• Remove the Problem page.
+• Remove the Task Schedule page (too detailed, unnecessary).
+• Task Template page → keep this one. Pull the list of templates directly from the app, and explain each template with a clear example in detail.
+
+⸻
+
+Do you want me to also draft the Rewards & Referral Program section text (with example flow: invite → track referral → earn rewards) so your dev doesn’t have to guess the content?
