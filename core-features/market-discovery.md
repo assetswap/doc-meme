@@ -1,11 +1,11 @@
 # Market Discovery
 
-Discover and trade new tokens effortlessly using multiple methods tailored to your trading style.
+Discover and trade new tokens effortlessly using multiple methods tailored to your trading style. Once you find promising tokens, track them in your [Portfolio](portfolio.md) or set up [Autopilot](../automation/autopilot.md) to trade them automatically.
 
 ## Discovery Methods
 
 ### Method 1: AI-Powered Discovery
-Let the AI find the best opportunities for you.
+Let the [AI Chat Assistant](ai-chat.md) find the best opportunities for you.
 
 **How it works:**
 1. Open the AI chat
@@ -36,10 +36,10 @@ The simplest way to buy any token.
 - DexScreener URLs
 - Even screenshots with token info
 
-**Best for:** Quick trades, social media finds, following calls
+**Best for:** Quick trades, social media finds, following calls. Perfect for users who discover tokens outside the platform and want to leverage our [scoring system](dashboard.md#token-scoring-system) before trading.
 
 ### Method 3: Dashboard Discovery
-Browse and analyze all tokens systematically.
+Browse and analyze all tokens systematically using our [Dashboard](dashboard.md) with its comprehensive [Token Scoring System](dashboard.md#token-scoring-system).
 
 **How it works:**
 1. Go to Dashboard

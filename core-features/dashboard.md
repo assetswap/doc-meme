@@ -1,6 +1,6 @@
 # Dashboard
 
-Your central hub for monitoring token scores, tracking performance, and managing your portfolio.
+Your central hub for monitoring token scores, tracking performance, and managing your portfolio. Works seamlessly with [AI Chat](ai-chat.md) for quick trades and [Autopilot](../automation/autopilot.md) for automation.
 
 ## Overview
 
@@ -48,6 +48,8 @@ Our AI analyzes multiple factors to score each token from 0-100:
 | 0-19 | Danger | Multiple warning signs, likely scam |
 
 ## Dashboard Views
+
+Navigate between different views to access specific features. Use the [Portfolio](portfolio.md) view to manage your holdings, switch to [Market Discovery](market-discovery.md) to find new opportunities, or use [AI Chat](ai-chat.md) for quick actions.
 
 ### Main Token List
 Displays all tokens with:

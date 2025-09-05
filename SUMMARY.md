@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to MEME AI](README.md)
+* [Why Meme AI?](why-meme-ai.md)
 
 ## Getting Started
 

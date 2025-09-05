@@ -1,6 +1,6 @@
 # Portfolio Management
 
-Your portfolio dashboard provides comprehensive insights into your token holdings and trading performance. Access it from the main navigation to monitor your investments in real-time.
+Your portfolio dashboard provides comprehensive insights into your token holdings and trading performance. Access it from the main navigation to monitor your investments in real-time. Trade directly through [AI Chat](ai-chat.md) or set up [automated strategies](../automation/autopilot.md) to manage your portfolio 24/7.
 
 ## Portfolio Overview
 
@@ -33,7 +33,7 @@ The chart responds to your interactions for deeper analysis. Hovering over any p
 
 ### Quick Actions
 
-Each token in your portfolio comes with a set of quick action buttons for efficient management. You can instantly trade to adjust your position, view detailed price charts for technical analysis, set custom price alerts for important levels, or add the token to automated tasks for hands-free trading.
+Each token in your portfolio comes with a set of quick action buttons for efficient management. You can instantly trade to adjust your position through [AI Chat](ai-chat.md), view detailed price charts on the [Dashboard](dashboard.md) for technical analysis, set custom [price alerts](../automation/alerts.md) for important levels, or add the token to [automated tasks](../automation/scheduled-tasks.md) for hands-free trading.
 
 ### Sorting and Organization
 

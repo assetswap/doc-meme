@@ -2,7 +2,7 @@
 
 The AI chat assistant transforms complex trading into simple conversations. Just type what you want in natural language, and the AI handles the technical details.
 
-## Getting Started
+## How It Works
 
 Using the AI assistant is straightforward. Type your request in the chat box and press Enter. The AI responds immediately with relevant information or action confirmations. For any trades, you'll see a confirmation prompt before execution. The entire process eliminates the need for navigating complex trading interfaces.
 
@@ -49,13 +49,7 @@ For optimal results, provide specific details in your requests. Instead of vague
 
 ### Quick Input Methods
 
-The AI recognizes common shortcuts to speed up your trading:
-
-| Shortcut | Full Meaning | Result |
-|----------|--------------|--------|
-| "100" | Buy $100 worth | Purchases default or last token |
-| "BONK" | Check BONK price | Shows current market data |
-| "again" | Repeat last action | Executes previous command |
+The AI recognizes shortcuts like typing "100" to buy $100 worth of the last discussed token, "BONK" to check its price, or "again" to repeat your last action.
 
 ### Educational Queries
 
@@ -63,22 +57,9 @@ Beyond trading, the AI serves as your educational resource. Ask about trading co
 
 ## Practical Examples
 
-### Trading Scenarios
+The AI understands both trading and research commands naturally. For trading, you can execute quick buys ("Buy $50 BONK"), full exits ("Sell everything"), token swaps ("Swap BONK for WIF"), or set conditional orders ("Buy if BONK drops 20%"). View all your trades in your [Portfolio](portfolio.md) or set up similar rules in [Autopilot](../automation/autopilot.md).
 
-Here are common trading commands that work seamlessly:
-
-| Category | Command Example | Result |
-|----------|-----------------|--------|
-| **Quick Buy** | "Buy $50 BONK" | Instant purchase at market price |
-| **Full Exit** | "Sell everything" | Liquidates all positions |
-| **Token Swap** | "Swap BONK for WIF" | Direct token exchange |
-| **Conditional** | "Buy if BONK drops 20%" | Sets limit order |
-| **Target Sell** | "Sell when up 50%" | Creates take-profit order |
-| **Portfolio Buy** | "Buy top 3 performers" | Diversified purchase |
-
-### Research Commands
-
-The AI provides comprehensive market analysis through natural queries. Compare tokens directly by asking "Compare BONK vs WIF" for side-by-side analysis. Discover emerging opportunities with "Show me new tokens" to see recent launches. Track smart money with "What are whales buying?" to follow large trader activity.
+For research, ask comparative questions ("Compare BONK vs WIF"), discover opportunities ("Show me new tokens") through [Market Discovery](market-discovery.md), or track smart money ("What are whales buying?"). The AI provides comprehensive analysis based on real-time market data from our [Dashboard](dashboard.md).
 
 ## Safety Protocols
 
@@ -96,10 +77,8 @@ When the AI misunderstands your request, provide more specific details. Always i
 
 ### Transaction Failures
 
-Failed trades usually stem from insufficient balance. Ensure you have enough SOL for gas fees (typically 0.01-0.05 SOL per transaction). If large trades fail, try smaller amounts or check if the token has adequate liquidity.
+Failed trades usually stem from insufficient balance. Ensure you have enough SOL for gas fees (typically 0.01-0.05 SOL per transaction). If large trades fail, try smaller amounts or check if the token has adequate liquidity. Learn more about [funding your wallet](../getting-started/funding.md) and [transaction troubleshooting](../troubleshooting/common-issues.md).
 
-## Additional Resources
+## Key Principle
 
-Explore our comprehensive documentation for advanced features. The Command Reference provides a complete list of all supported commands. Trading Examples showcase real-world scenarios and strategies. The Advanced Tips guide reveals power user features for experienced traders.
-
-**Key Principle:** Natural conversation yields best results. The AI adapts to your communication style.
+Natural conversation yields best results. The AI adapts to your communication style, making trading as simple as having a conversation.
