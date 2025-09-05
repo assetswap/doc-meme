@@ -8,7 +8,7 @@ AssetSwap operates on a performance-based fee structure that rewards active trad
 
 ### Base Trading Fees
 
-Every trade on AssetSwap incurs a trading fee that covers platform operations, liquidity access, AI computational resources, and continuous development. New users begin with our standard rate of 2.5% per transaction, which is competitive within the DeFi ecosystem while ensuring sustainable platform growth.
+Every trade on AssetSwap includes a small fee that keeps the platform running smoothly. This fee covers the costs of running the platform, accessing token pools for trading, powering the AI that helps you trade, and improving the platform over time. New users start with a standard fee of 2.5% per transaction (that means for every $100 you trade, you pay $2.50 in fees). This rate is competitive compared to other similar platforms while allowing us to keep improving your trading experience.
 
 ### How Fees Are Calculated
 
@@ -18,13 +18,13 @@ Trading fees apply to the total transaction value at the time of execution. For 
 
 ### Tier Qualification System
 
-Our loyalty program recognizes and rewards platform engagement through two independent qualification paths. You can achieve higher tiers and lower fees by either increasing your trading volume or holding A7X tokens. This dual-path system ensures both active traders and long-term believers benefit from reduced fees.
+Our loyalty program rewards you for using the platform more, and there are two ways to qualify for better rates. You can either trade more frequently (increasing your trading volume - the total amount you trade), or you can hold A7X tokens (our platform's special token) in your wallet. This means whether you're someone who trades a lot or someone who prefers to hold tokens long-term, you can still get fee discounts.
 
 <figure><img src="../.gitbook/assets/Preview_2025-05-13_18.51.59-removebg-preview.png" alt=""><figcaption></figcaption></figure>
 
 ### Volume-Based Qualification
 
-Your 30-day rolling trading volume automatically determines your tier eligibility. The system calculates your total swap value over the past 30 days, updating daily. This means consistent trading activity maintains your tier status, while increased activity can upgrade your tier immediately upon reaching thresholds.
+The platform looks at how much you've traded in the last 30 days to determine your tier. Think of it like a loyalty card at a coffee shop - the more you buy, the better rewards you get. The system adds up all your trades from the past month (this is called your 30-day rolling volume) and checks this total every day. If you trade more and reach a higher level, you immediately get better fees. If you trade less, you might move to a lower tier after 30 days.
 
 ### A7X Holdings Qualification
 

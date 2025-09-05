@@ -4,7 +4,7 @@ Automated trading that monitors your positions 24/7 and executes trades when you
 
 ## Understanding Smart Limit Orders
 
-Smart limit orders function as automated trading guardians for your portfolio. Take-profit orders automatically secure gains when targets are reached, while stop-loss orders protect against excessive losses. Unlike traditional limit orders that only watch price, MEME AI monitors over 30 different market metrics to make more informed trading decisions.
+Smart limit orders are like setting automatic rules for your trades that work even when you're sleeping. Think of them as instructions you give to the platform: "If this happens, do that." For example, a take-profit order automatically sells your tokens when they reach your target price (securing your gains), while a stop-loss order sells if the price drops too much (limiting your losses). What makes our orders "smart" is that they don't just watch the price - they monitor over 30 different things about each token, like how safe it is, who's buying and selling, and how easy it is to trade.
 
 ## Getting Started with Limit Orders
 
@@ -22,7 +22,7 @@ The platform's proprietary safety score analyzes multiple risk factors including
 
 ### Whale Movement Detection
 
-Monitor large holder activity to anticipate major market moves. Configure alerts and automatic trades based on whale accumulation or distribution patterns. This feature helps you follow smart money or exit before significant dumps.
+Whales are people or groups with huge amounts of tokens - when they buy or sell, it can move the entire market. Our system watches these big players for you. You can set up automatic trades that react when whales start buying (often a good sign) or selling (often a warning sign). This helps you follow the smart money or get out before a big price drop.
 
 ### Volume and Liquidity Analysis
 
@@ -32,7 +32,7 @@ React to changing market conditions by monitoring trading volume and liquidity m
 
 ### Beginner Strategy: Foundation Protection
 
-Start with simple profit-taking at 50% gains and loss prevention at 20% downside. This balanced approach secures wins while limiting losses to manageable levels. Perfect for new traders learning market dynamics.
+If you're new to trading, start simple. Set your tokens to automatically sell for profit when they go up 50% (meaning if you bought $100 worth, it sells when it's worth $150). Also set a safety net to sell if they drop 20% (if your $100 drops to $80, it sells to prevent bigger losses). This balanced approach helps you lock in wins and prevent big losses while you're learning how the market works.
 
 ### Intermediate Strategy: Scaled Exits
 

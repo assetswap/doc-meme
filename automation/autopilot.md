@@ -8,7 +8,7 @@ Autopilot is your personal trading assistant that works 24/7. It automatically b
 
 ## How It Works
 
-When you activate Autopilot, it creates simple starter tasks that appear in your Task Dashboard. These tasks run automatically - for example, buying the best-scoring tokens daily with $50, or checking your portfolio every hour to ensure your tokens maintain good scores and adequate liquidity. The beauty is that these are just starting points. You can edit these tasks later to match your exact preferences, add new conditions, or create more sophisticated strategies as you become more comfortable with the platform.
+When you turn on Autopilot, it sets up automatic tasks that run in the background. These tasks do things like buying the highest-rated tokens every day with your chosen amount (like $50), or checking your tokens every hour to make sure they're still performing well. Liquidity (the amount of money available for trading a token) is monitored to ensure you can sell when needed. The best part is that these starting tasks are just the beginning - as you learn more about trading, you can change these tasks to work exactly how you want them to.
 
 ## Start in 30 Seconds
 

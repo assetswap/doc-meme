@@ -29,13 +29,13 @@ Configure automated trading strategies using simple commands. Set up autopilot m
 
 ## Intelligent Features
 
-### Contextual Understanding
+### Understanding Your Context
 
-The AI maintains conversation context throughout your session. When you ask "What's hot today?" and receive trending tokens, you can simply say "Buy the first one" without repeating details. The assistant remembers your previous queries and applies that context to subsequent commands.
+The AI remembers what you've been talking about during your session. For example, if you ask "What's trending today?" and get a list of popular tokens, you can simply say "Buy the first one" without having to repeat which token you mean. The assistant keeps track of your conversation and understands what you're referring to, just like talking to a helpful friend.
 
-### Natural Language Processing
+### Speaking Naturally
 
-The system interprets variations and informal language naturally. Saying "buy more" automatically repeats your last purchase with the same parameters. "Double it" increases your position by 2x. "Actually nevermind" cancels pending operations. This flexibility makes trading feel like a natural conversation rather than rigid command inputs.
+You don't need to learn special commands or technical terms. The AI understands everyday language and common phrases. When you say "buy more," it knows to repeat your last purchase. Saying "double it" increases your position by twice the amount. If you change your mind and say "actually nevermind," it cancels what you were about to do. This makes trading feel like having a normal conversation instead of typing rigid computer commands.
 
 ### Multi-Tab Conversations
 

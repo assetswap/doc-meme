@@ -19,11 +19,7 @@ Get started with MEME AI in 2 minutes. No hassle.
 
 ## What Happens When You Create an Account
 
-✅ **Automatic Wallet Generation** - A Solana wallet is created instantly for you
-✅ **Recovery Phrase** - A recovery phrase is generated and can be exported to your favorite wallet application
-✅ **No 2FA Required** - Optional for enhanced security, but not required
-✅ **No User Profile Section Needed** - Simple and straightforward setup
-✅ **Ready to Trade** - Start trading immediately after funding
+When you sign up, several things happen automatically. First, a Solana wallet (think of it as your digital money account) is created instantly for you. Second, a recovery phrase is generated - this is a special set of words that acts like a master key to your wallet, which you can use in other wallet apps if you want. You don't need to set up two-factor authentication (2FA - an extra security step using your phone), though you can add it later for more security. There's no complicated profile setup - everything is simple and straightforward. Once you add money to your account, you're ready to start trading right away.
 
 ## First Login
 

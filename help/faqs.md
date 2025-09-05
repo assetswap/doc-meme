@@ -44,7 +44,7 @@ Three ways:
 3. Swap widget: Manual swap interface
 
 ### What is slippage?
-Slippage is the price difference between order and execution. Set 1-2% for most tokens, higher for new/volatile ones.
+Slippage is when the price changes slightly between when you click "buy" and when your trade actually happens (like when an item's price changes while you're checking out online). Think of it as a buffer - you're saying "I'm willing to pay up to X% more than the current price to make sure my trade goes through." Set it to 1-2% for most tokens, or higher (3-5%) for new or fast-moving tokens.
 
 ### Why did my trade fail?
 Common reasons:
@@ -73,7 +73,7 @@ Historical average: 15-30% monthly. Past performance doesn't guarantee future re
 ## Tasks & Automation
 
 ### What are tasks?
-Tasks are scheduled trading actions that run automatically - like buying daily, taking profits, or stop losses.
+Tasks are automatic trading instructions you set up once and they keep running for you. Think of them like setting an alarm clock - you tell the system "Every day at noon, buy $50 of the best token" or "If any of my tokens go up 100%, sell half." They work 24/7 even when you're not online.
 
 ### How many tasks can I create?
 Up to 50 active tasks. Most users need 5-10.
@@ -87,7 +87,7 @@ Yes! Tasks run on our servers 24/7, even when you're not logged in.
 ## Technical
 
 ### What blockchain does MEME AI use?
-Solana exclusively. Fast, cheap, and perfect for meme token trading.
+We use Solana exclusively. A blockchain is like a digital highway where cryptocurrency transactions happen. Solana is one of the fastest and cheapest blockchains - transactions cost just a few cents and complete in seconds, making it perfect for active trading.
 
 ### Which tokens can I trade?
 Any token on Solana with sufficient liquidity. We support thousands of tokens.
@@ -126,7 +126,7 @@ Click "Forgot Password" on login page. Reset link sent to your email.
 Start with Autopilot or simple daily DCA tasks. Learn by watching what works.
 
 ### Should I diversify?
-Yes! Spread risk across 5-10 tokens rather than all in one.
+Yes! Diversifying means not putting all your money in one token. It's like the saying "don't put all your eggs in one basket." If you have $1000, instead of buying just one token, spread it across 5-10 different tokens. This way if one goes down, the others might go up and balance out your losses.
 
 ### When should I take profits?
 Consider taking partial profits at +30-50%. Let winners run with stop losses.

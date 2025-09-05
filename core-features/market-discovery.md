@@ -65,13 +65,13 @@ Follow the crowd intelligently.
 ## Token Analysis
 
 ### Instant Token Report
-When you discover any token, get:
-- **MemeAI Score** (0-100)
-- **Risk Assessment**
-- **Holder Analysis**
-- **Liquidity Check**
-- **Social Sentiment**
-- **AI Recommendation**
+When you find any token, you instantly get a complete report that includes:
+- **MemeAI Score** (0-100, like a grade where 100 is the best)
+- **Risk Assessment** (tells you how risky the investment is)
+- **Holder Analysis** (who owns the token and how it's distributed)
+- **Liquidity Check** (how easy it is to buy and sell without affecting price)
+- **Social Sentiment** (what people are saying about it online)
+- **AI Recommendation** (whether our AI thinks it's a good buy or not)
 
 ### Quick Buy Process
 Once you've found a token:
@@ -90,12 +90,12 @@ Once you've found a token:
 - **Moonshots**: High risk, high reward
 
 ### Custom Filters
-Create your own:
-- Score range
-- Market cap limits
-- Liquidity minimum
-- Age requirements
-- Holder count threshold
+Create your own search rules to find exactly what you want:
+- Score range (only show tokens rated between certain numbers)
+- Market cap limits (total value of all tokens - bigger usually means safer)
+- Liquidity minimum (only tokens with enough money for easy trading)
+- Age requirements (how old the token is - newer can be riskier)
+- Holder count threshold (minimum number of people who own it)
 
 ## Smart Features
 

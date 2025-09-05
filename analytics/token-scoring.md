@@ -4,16 +4,16 @@ MEME AI analyzes every token with a 100-point scoring system. Here's exactly how
 
 ## Overall Token Score
 
-Your final score combines 6 key metrics:
+Each token gets a score out of 100 points, like a grade in school. We look at 6 different things about each token and combine them for the final score:
 
 | Metric | Weight | What It Measures |
 |--------|--------|------------------|
-| Liquidity | 25% | Can you trade easily? |
-| Activity | 20% | How active is trading? |
-| Momentum | 20% | Is it trending up? |
-| Community | 15% | How strong is the community? |
-| Security | 15% | Is it safe? |
-| Maturity | 5% | How established is it? |
+| Liquidity | 25% | Can you buy and sell easily without affecting the price? |
+| Activity | 20% | How many people are trading this token? |
+| Momentum | 20% | Is the price going up or down? |
+| Community | 15% | How many people support this token? |
+| Security | 15% | Is it safe from scams or manipulation? |
+| Maturity | 5% | How long has it been around and how stable is it? |
 
 ## Activity Score (100 points)
 
@@ -37,10 +37,11 @@ Analyzes trades across 1h, 4h, 24h periods:
 | <50 | 5 | Poor |
 
 ### 3. Buy/Sell Balance (25% weight)
-- **40-60% buy ratio** = 25 points (perfect balance)
-- **30-70% buy ratio** = 20 points (healthy)
-- **20-80% buy ratio** = 15 points (acceptable)
-- **Extreme ratios** = Red flag (manipulation risk)
+We look at how many people are buying versus selling. A healthy token has both buyers and sellers:
+- **40-60% buy ratio** = 25 points (perfect - almost equal buying and selling)
+- **30-70% buy ratio** = 20 points (healthy balance)
+- **20-80% buy ratio** = 15 points (acceptable but watch closely)
+- **Extreme ratios** = Red flag (if everyone is only buying or only selling, something might be wrong)
 
 ### What Good Activity Looks Like
 ✅ Lots of trades throughout the day
@@ -78,11 +79,12 @@ Assesses market establishment with a 100-point scale to determine how stable and
 - **<80%** = 15 points (healthy)
 - **>80%** = Lower score (concentration risk)
 
-### 3. FDV vs Market Cap Ratio (20% weight)
-- **90%+ circulating** = 20 points (fully diluted)
-- **70-90%** = 15 points (mostly circulating)
-- **50-70%** = 10 points (inflation risk)
-- **<50%** = 5 points (high inflation risk)
+### 3. Token Supply in Circulation (20% weight)
+This checks how many tokens are available now versus how many will ever exist (like checking if all the shares of a company are already sold or if more will be released later):
+- **90%+ circulating** = 20 points (almost all tokens are already available - no surprises)
+- **70-90%** = 15 points (most tokens are out there)
+- **50-70%** = 10 points (more tokens might be released, which could lower the price)
+- **<50%** = 5 points (lots more tokens coming - price might drop when released)
 
 ### 4. Holder Count (10% weight)
 | Holders | Points | Community Size |

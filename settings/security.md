@@ -12,10 +12,7 @@ Protect your account and manage your wallet security.
 
 ### Exporting Your Private Key
 
-Your private key gives complete control over your wallet. Export it to:
-- Create a secure backup
-- Import to external wallets
-- Use with other applications
+Your private key is like the master password to your digital wallet - it gives complete control over all your funds. Think of it as the key to a safe that contains all your cryptocurrencies. You should export (save) it to create a backup copy in case you lose access to your account, to use your wallet in other apps, or to access your funds from different devices.
 
 **Steps to Export:**
 1. Go to Security Settings
@@ -26,11 +23,7 @@ Your private key gives complete control over your wallet. Export it to:
 6. Never share with anyone
 
 ### Security Warning
-⚠️ **CRITICAL**: 
-- Your private key is like your bank account password
-- Anyone with your private key can steal all funds
-- We will NEVER ask for your private key
-- Store it offline in multiple secure locations
+⚠️ **CRITICAL**: Your private key is the most important piece of information for your wallet. It's like having the actual key to a physical safe - anyone who has it can open the safe and take everything inside. MEME AI staff will NEVER ask you for your private key, not even for support. If someone asks for it, they are trying to steal from you. Store your private key offline (written on paper or saved on a USB drive that's not connected to the internet) in multiple safe places like a home safe or bank deposit box.
 
 ### Challenge Account Restrictions
 If you received free challenge funds:
@@ -42,11 +35,7 @@ If you received free challenge funds:
 ## API Key Management
 
 ### Your API Key
-Access MEME AI programmatically:
-- Unique identifier for your account
-- Enables external integrations
-- Rate-limited for security
-- Revocable anytime
+An API key is a special code that lets other programs or tools connect to your MEME AI account (API stands for Application Programming Interface - it's how different software programs talk to each other). Your API key is unique to your account, like a special access card. It lets you connect trading bots or other tools to your account. For security, there's a limit on how many times it can be used per minute (rate-limited). You can cancel it anytime if you think someone else might have gotten access to it.
 
 **Managing API Keys:**
 1. Click **"Generate API Key"**
@@ -70,7 +59,7 @@ If your API key is compromised:
 ## Two-Factor Authentication (2FA)
 
 ### Setting Up 2FA (Optional)
-While not required, 2FA adds extra security:
+Two-Factor Authentication (2FA) adds an extra layer of security to your account. It's like having two locks on your door instead of one. Even if someone gets your password, they still need a second code from your phone to get in. While it's optional, we strongly recommend using it:
 
 1. Click **"Enable 2FA"**
 2. Scan QR code with authenticator app:
@@ -203,11 +192,11 @@ We monitor for:
 ## Wallet Security
 
 ### Best Practices
-1. **Export private key** immediately after account creation
-2. **Store offline** in multiple locations
-3. **Never screenshot** private keys
-4. **Use hardware wallet** for large amounts
-5. **Test recovery** process regularly
+1. **Export private key** immediately after creating your account - don't wait
+2. **Store offline** in multiple safe places (written on paper, USB drive not connected to internet)
+3. **Never screenshot** private keys - screenshots can be automatically uploaded to cloud services
+4. **Use hardware wallet** (a physical device like a special USB for crypto) for large amounts
+5. **Test recovery** process with small amounts to make sure you can access your funds
 
 ### Security Checklist
 - [ ] Private key exported and secured

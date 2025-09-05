@@ -4,10 +4,7 @@ Fund your MEME AI wallet to start trading. Multiple options available for your c
 
 ## Your MEME AI Wallet
 
-When you create an account, we automatically generate a Solana wallet for you. This wallet is:
-- **Secure**: Only you have access via your recovery phrase
-- **Non-custodial**: We don't control your funds
-- **Integrated**: Works seamlessly with MEME AI features
+When you create an account, we automatically create a digital wallet for you on the Solana blockchain (think of it as your personal crypto bank account). This wallet has three important features. First, it's secure - only you can access it using your recovery phrase (a special set of words that acts like a master password). Second, it's non-custodial, which means we don't control your money - you do, just like cash in your physical wallet. Third, it's integrated with all MEME AI features so everything works smoothly together.
 
 ## How to Add Funds
 
@@ -38,7 +35,7 @@ When you create an account, we automatically generate a Solana wallet for you. T
 
 ### Option 3: Buy Crypto with Moonpay
 1. Click **"Buy with Moonpay"**
-2. Complete KYC verification (first time only)
+2. Complete KYC verification (Know Your Customer - a one-time identity check required by law, like when opening a bank account)
 3. Choose payment method
 4. Funds delivered directly to wallet
 
