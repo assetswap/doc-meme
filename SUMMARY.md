@@ -10,6 +10,7 @@
 * [Your Wallet](getting-started/your-wallet.md)
 * [Adding Funds](getting-started/adding-funds.md)
 * [Making Your First Trade](getting-started/first-trade.md)
+* [AI Credits Usage Guide](getting-started/credit-usage-guide.md)
 
 ## Core Features
 
@@ -17,6 +18,7 @@
 * [AI Chat Assistant](core-features/ai-chat.md)
 * [Market Discovery](core-features/market-discovery.md)
 * [Portfolio Management](core-features/portfolio.md)
+* [Trading Leaderboard](core-features/leaderboard.md)
 * [Notifications](features/notifications.md)
 
 ## Analytics
